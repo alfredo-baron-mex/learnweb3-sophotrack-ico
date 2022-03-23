@@ -11,7 +11,7 @@
 
 ### Prerequisites
 ---
-- [**NFT Collection Lab**](https://github.com/alfredo-baron-mex/learnweb3-sophotrack-nftcollection) Lab.
+- [**NFT Collection Lab**](https://github.com/alfredo-baron-mex/learnweb3-sophotrack-nftcollection)
 
 ### Lab Content
 ---
