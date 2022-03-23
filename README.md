@@ -1,20 +1,20 @@
 # LearnWeb3 - Sophomore Track
 
-## Level 7 NFT-Collection Lab
+## Level 8 ICO (Initial Coin Offering) Lab
 
 ### Requirements
 ---
-- There should only exist 20 Crypto Dev NFT's and each one of them should be unique.
-- User's should be able to mint only 1 NFT with one transaction.
-- Whitelisted users, should have a 5 min presale period before the actual sale where they are guaranteed 1 NFT per transaction.
-- There should be a website for your NFT Collection.
+- There should be a max of **`10,000 CD`** tokens.
+- Every **`Crypto Dev`** NFT holder should get 10 tokens for free but they would have to pay the gas fees.
+- The price of one CD at the time of ICO should be **`0.001`** ether
+- There should be a website which users can visit for the ICO.
 
 ### Prerequisites
 ---
-- [**Whitelist dApp**](https://github.com/alfredo-baron-mex/learnweb3-sophotrack-whitelistdapp) Lab.
+- [**NFT Collection Lab**](https://github.com/alfredo-baron-mex/learnweb3-sophotrack-nftcollection) Lab.
 
 ### Lab Content
 ---
-- Smart Contract ([***hardhat-tutorial***](hardhat-tutorial))
+- Smart Contract ([***hardhat***](hardhat))
 - React-Next App ([***my-app***](my-app))
 
